@@ -9,4 +9,4 @@ The repository contains:
 - a file named ``CommandLine.sh`` containing the source code of the question on the command line
 - a file named ``7.5_question.ipynb`` which is a Jupyter Notebook with a PySpark kernel containing the code of the question 7.5
 - a README.md file describing the content of the repository
-- map picture ex. 4 is a picture of the map of the exercise 4 beacuse the main notebook doesn't show the interactive map that we created.
+- a file named 'map picture ex. 4' is a picture of the map of the exercise 4 beacuse the main notebook doesn't show the interactive map that we created.
