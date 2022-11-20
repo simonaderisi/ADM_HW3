@@ -1,6 +1,6 @@
 # ADM_HW3
-Repository for the third homework of the course 'Algorithmic methods for Data Mining'. 
-Group #4
+Repository for the third homework of the course 'Algorithmic methods for Data Mining'.<br> 
+Group #4<br>
 Members of the group: De Risi Simona, Frezza Gianluca and Zeynalpour Sara.
 
 The repository contains:
